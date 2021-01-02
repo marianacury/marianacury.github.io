@@ -36,7 +36,7 @@ h6 {
 /* Links */
 a,
 .t-link-container .t-link-container__item {
-  color: #1EA186;
+  color: #d84315;
 }
 
 /* Hover Links */
@@ -45,7 +45,7 @@ a:focus,
 a:active,
 .t-link-container:hover .t-link-container__item,
 .t-link-container:hover .t-link-container__item--blended {
-  color: #1EA186;
+  color: #d84315;
 }
 
 /* Horizontal Rulers */
