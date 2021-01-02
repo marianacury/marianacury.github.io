@@ -61,18 +61,18 @@ hr {
 /* Primary Color */
 .t-primary-color,
 .t-primary-color-line {
-  color: #1EA186;
+  color: #d84315;
 }
 
 .t-primary-bg,
 .t-primary-color-line {
-  background: #1EA186;
+  background: #d84315;
 }
 
 /* Preloader */
 .t-preloader__spinner:not(:required):before {
-  border-top-color: #1EA186;
-  border-bottom-color: #1EA186;
+  border-top-color: #d84315;
+  border-bottom-color: #d84315;
 }
 
 /* Brand Colors */
@@ -81,7 +81,7 @@ hr {
 }
 
 .t-title__second-word {
-  color: #1EA186;
+  color: #d84315;
 }
 
 .t-sub-title {
